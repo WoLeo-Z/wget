@@ -1,0 +1,7 @@
+{
+  "name": "wget",
+  "description": "Deploy wget to heroku",
+  "website": "https://github.com/woleo-z/wget",
+  "repository": "https://github.com/woleo-z/wget",
+  "success_url": "/"
+}
